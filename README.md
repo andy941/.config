@@ -1,1 +1,1 @@
-Useful configuration files from my mnjaro i3 installation.
+Useful configuration files from my Manjaro i3 installation.
