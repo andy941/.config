@@ -3,8 +3,8 @@
 
 # don't ignore this files:
 !.bashrc
-!alacritty/*
-!powerline\-shell/*
-!ranger/*
+!alacritty/
+!powerline-shell/
+!ranger/
 !.gitignore
 
