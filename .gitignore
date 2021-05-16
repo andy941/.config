@@ -2,9 +2,10 @@
 *
 
 # don't ignore this files:
+!/redshift
+!/alacritty
+!/powerline-shell
+!/ranger
+!picom.conf
 !.bashrc
-!alacritty/
-!powerline-shell/
-!ranger/
 !.gitignore
-
