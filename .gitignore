@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# don't ignore this files:
+!.bashrc
+!alacritty/*
+!powerline\-shell/*
+!ranger/*
+!.gitignore
+
