@@ -4,6 +4,7 @@
 # don't ignore this files:
 
 !/redshift
+/alacritty/alacritty-theme
 !/alacritty
 !/powerline-shell
 !/ranger
