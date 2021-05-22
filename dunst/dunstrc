@@ -1,6 +1,5 @@
 [global]
     frame_width = 1
-    frame_color = "#ff9914"
 	corner_radius = 7
     
     //font = Noto Sans 10
@@ -124,11 +123,10 @@
     separator_height = 1
     
     # Padding between text and separator.
-    # padding = 8
-    padding = 4
+    padding = 8
     
     # Horizontal padding.
-    horizontal_padding = 10
+    horizontal_padding = 8
     
     # Define a color for the separator.
     # possible values are:
@@ -184,17 +182,20 @@
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
     background = "#2F3D44"
-    foreground = "#556064"
+    foreground = "#FFFFFF"
+    frame_color = "#2F3D44"
     timeout = 10
 
 [urgency_normal]
     background = "#2F3D44"
-    foreground = "#F9FAF9"
+    foreground = "#FFFFFF"
+    frame_color = "#0084ff"
     timeout = 10
 
 [urgency_critical]
     background = "#2F3D44"
-    foreground = "#F9FAF9"
+    foreground = "#FFFFFF"
+    frame_color = "#ff0000"
     timeout = 0
 
 
