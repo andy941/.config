@@ -1,4 +1,5 @@
 {
+	"mode": "flat",
 	"segments": [
 		"virtual_env",
 		"ssh",
