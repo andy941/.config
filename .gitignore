@@ -4,10 +4,11 @@
 # don't ignore this files:
 
 !/redshift
-!/alacritty/*.yml
+!/alacritty
+/alacritty/alacritty-theme/
 !/powerline-shell
 !/ranger
 !/dunst
 
 !picom.conf
-!.gitignore
+!./.gitignore
