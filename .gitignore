@@ -5,7 +5,7 @@
 
 !/redshift
 !/alacritty
-/alacritty/alacritty-theme/
+!/alacritty/alacritty-theme/
 !/powerline-shell
 !/ranger
 !/dunst
