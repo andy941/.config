@@ -3,7 +3,7 @@
 	corner_radius = 7
     
     //font = Noto Sans 10
-    font = pango:Roboto Mono for Powerline, NerdFonts 12
+    font = pango:RobotoMono NerdFont, NerdFonts 12
     
     # Allow a small subset of html markup:
     #   <b>bold</b>

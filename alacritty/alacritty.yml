@@ -73,7 +73,6 @@ window:
   # Values for `startup_mode` (macOS only):
   #   - SimpleFullscreen
   #startup_mode: Windowed
-    
   # Window title
   #title: Alacritty
 
@@ -577,8 +576,8 @@ colors:
     cyan: '0x89b482'
     white: '0xdfbf8e'
   cursor:
-    text: '0x1d1f21'
-    cursor: '0xffffff'
+    background: '0xf0f0f0'
+    foreground: '0x26282a'
 
   # Normal colors
   dim:
