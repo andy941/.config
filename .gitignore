@@ -5,11 +5,12 @@
 
 !/redshift
 !/alacritty
-!/alacritty/alacritty-theme/
 !/powerline-shell
 !/ranger
+!/dunst
 !/dunst
 
 !picom.conf
 !prefs.js
 !i3-scrot.conf
+!.gitignore
