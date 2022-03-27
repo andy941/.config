@@ -9,6 +9,7 @@
 !/ranger
 /ranger/plugins
 /ranger/__pycache__
+alacritty/alacritty-theme/
 !/dunst
 !/dunst
 
