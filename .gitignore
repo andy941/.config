@@ -1,16 +1,18 @@
 # ignore everything
 /*
 
+# ignore these directories
+/ranger/plugins
+/ranger/__pycache__
+alacritty/alacritty-theme/
+
 # don't ignore this files:
 
 !/redshift
 !/alacritty
 !/powerline-shell
 !/ranger
-/ranger/plugins
-/ranger/__pycache__
-alacritty/alacritty-theme/
-!/dunst
+!/polybar
 !/dunst
 
 !picom.conf
