@@ -1,5 +1,6 @@
 {
-	"mode": "flat",
+	"mode" : "patched",
+	"theme": "default",
 	"segments": [
 		"virtual_env",
 		"ssh",
@@ -7,14 +8,11 @@
 		"git",
 		"git_stash",
 		"jobs",
-		"set_term_title",
 		"svn",
 		"newline",
 		"root"
 	],
 	"cwd": {
-		"mode": "plain",
-		"max_depth": 4
-	},
-	"theme": "default"
+		"max_depth": 6
+	}
 }
