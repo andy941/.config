@@ -577,19 +577,18 @@ colors:
     cyan: '0x89b482'
     white: '0xdfbf8e'
   cursor:
-    text: '0xaaaaaa'
-    cursor: '0xffffff'
+    text: '#061822'
+    cursor: '#feaf3c'
 
-  # Normal colors
   dim:
     black: '0x000000'
-    red: '0xb21818'
-    green: '0x18b218'
-    yellow: '0xb26818'
-    blue: '0x1818b2'
-    magenta: '0xb218b2'
-    cyan: '0x18b2b2'
-    white: '0xb2b2b2'
+    red: '0xa90000'
+    green: '0x049f2b'
+    yellow: '0xa3b106'
+    blue: '0x530aba'
+    magenta: '0xbb006b'
+    cyan: '0x433364'
+    white: '0x5f5f5f'
   indexed_colors: []
   search:
     matches:
@@ -604,4 +603,3 @@ colors:
     background: '#265b75'
 
   # Normal colors
-
