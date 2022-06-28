@@ -575,9 +575,10 @@ colors:
     cyan: '0x89b482'
     white: '0xdfbf8e'
   cursor:
-    text: '#061822'
-    cursor: '#feaf3c'
+    text: '0xeeeeee'
+    cursor: '0x878787'
 
+  # Normal colors
   dim:
     black: '0x000000'
     red: '0xa90000'
