@@ -15,6 +15,7 @@ alacritty/alacritty-theme/
 !/polybar
 !/dunst
 !/kitty
+!/rofi
 
 !picom.conf
 !prefs.js
