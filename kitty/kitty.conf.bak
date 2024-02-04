@@ -8,7 +8,7 @@ bold_italic_font auto
 font_size 14.0
 
 cursor_blink_interval 0
-
+allow_remote_control yes
 enable_audio_bell no
 
 window_margin_width 0
@@ -18,9 +18,10 @@ window_padding_width 0
 
 confirm_os_window_close 0
 
-map alt+shift+enter launch --cwd=current
+map alt+t kitten themes --reload=all Catppuccin-Mocha
+map alt+shift+t kitten themes --reload=all Catppuccin-Latte
 
-tab_bar_min_tabs            1
+tab_bar_min_tabs            2
 tab_bar_edge                bottom
 tab_bar_style               powerline
 tab_powerline_style         slanted
@@ -32,6 +33,6 @@ background_opacity 1
 background_blur 0
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Mocha
+# Catppuccin-Latte
 include current-theme.conf
 # END_KITTY_THEME
